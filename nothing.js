@@ -1,1 +1,2 @@
 let nothing = "";
+nothing = "not";
